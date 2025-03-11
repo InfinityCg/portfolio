@@ -1,0 +1,9 @@
+# Each production should be separated by three dashes (---)
+# When you add one then productions.js will automatically add it after saving
+# Format: Title, Company, Time, Thumbnail URL, Description 
+---
+Freelance 3D Artist
+InfinityCG
+2021-Present
+https://productionimage.jpg 
+Freelance 3d artist specializing in Modelling, Texturing, Archviz, Product and non-human animation 

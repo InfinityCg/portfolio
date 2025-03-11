@@ -1,0 +1,13 @@
+Triangles: 
+
+Materials: 3
+
+Texture Size: 2048x2048
+
+Texel Density: 
+
+Workflow: SubD
+
+Target Engine: 
+
+Collaborators:

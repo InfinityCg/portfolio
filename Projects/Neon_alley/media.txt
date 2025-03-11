@@ -1,0 +1,15 @@
+https://cdnb.artstation.com/p/assets/images/images/035/030/523/large/sid-infinix-img-20210221-025651-857-01.jpg
+A desktop version of the Render with the cat being smaller and some adjusted elements
+
+https://cdna.artstation.com/p/assets/images/images/035/030/686/large/sid-infinix-final-smol.jpg
+The main Render
+Post processed first in blender(Chromatic aberration + Lens distortion) then in Photoshop 
+
+https://cdn.artstation.com/p/video_sources/000/270/401/video0001-0109.mp4
+Overview video of the whole project
+
+https://cdnb.artstation.com/p/assets/images/images/035/030/409/large/sid-infinix-overview-1.jpg
+Solid view 
+
+https://cdnb.artstation.com/p/assets/images/images/035/031/497/large/sid-infinix-reference-board.jpg
+The reference board

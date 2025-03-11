@@ -1,0 +1,17 @@
+AK
+---
+The goal was to make a Mid-Low poly Ak that could be used in modern game
+Final polygon count turned out to be 16,356 triangles
+For UVs and Baking, I referred to Polycount, especially https://polycount.com/discussion/107196/making-sense-of-hard-edges-uvs-normal-maps-and-vertex-counts and its sister topics
+Texturing made me suffer the most and also the longest, I decided to build them from the ground up, for the wood I took help from the article by Simon mercuzot
+https://80.lv/articles/sks-hard-surface-texturing-in-weapons-art/,
+The great and friendly peeps at "The Friendly bootcamp" Discord
+https://discord.gg/DKY6yz7p
+really set me in the right direction by providing feedback on texturing and baking
+I am happy with where this project concluded
+---
+Portfolio, Blender, Substance painter, Marmoset toolbag
+---
+https://cdnb.artstation.com/p/assets/images/images/073/427/935/large/infinity-cg-ak-face-down-post-2.jpg?1709640792
+---
+AK.html

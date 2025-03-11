@@ -1,0 +1,14 @@
+https://cdnb.artstation.com/p/assets/images/images/037/172/747/large/sid-infinix-untitled.jpg
+Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+
+https://cdna.artstation.com/p/assets/images/images/037/172/798/large/sid-infinix-untitled3.jpg
+Description for example2.jpg.
+
+https://cdnb.artstation.com/p/assets/images/images/037/172/779/large/sid-infinix-untitled1.jpg
+These aren't real images but need replacing with your own.
+
+https://cdnb.artstation.com/p/assets/images/images/037/172/809/large/sid-infinix-untitled4.jpg
+MP4's are also supported but like with images should be hosted somewhere like dropbox.
+
+https://cdna.artstation.com/p/assets/images/images/037/172/790/large/sid-infinix-untitled2.jpg
+You can create before and after slider by seperating two urls with ' // ' s

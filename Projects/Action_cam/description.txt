@@ -1,0 +1,10 @@
+Action camera
+---
+Model based on GoPro hero 9, The objective here was to make a photoreal Render.
+The model was done in Blender with render in Cycles and a little postprocessing in Photoshop
+---
+Blender, Photoshop, Portfolio
+---
+https://cdnb.artstation.com/p/assets/images/images/037/172/747/20210429034735/smaller_square/sid-infinix-untitled.jpg?
+---
+Action_cam.html
